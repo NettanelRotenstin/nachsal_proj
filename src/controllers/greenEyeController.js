@@ -1,6 +1,6 @@
 const createPoll = async (req, res) => {
     try {
-
+        res.send(`mr commander!`)
     } catch (error) {
 
     }
@@ -8,7 +8,7 @@ const createPoll = async (req, res) => {
 
 const myNotifications = async (req, res) => {
     try {
-
+        res.send(`anyone`)
     } catch (error) {
 
     }
